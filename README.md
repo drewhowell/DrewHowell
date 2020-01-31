@@ -11,11 +11,11 @@ Now that I've had some practice with APIs and have a project to share, I am upda
 My new portfolio is created with bootstrap with a mobile-first design approach. It includes the following content:
 
 
--Links to my GitHub profile & LinkedIn page as well as my email address & phone number.
+-Links to my GitHub profile & LinkedIn page as well as my email address (phone number included in resume only).
 
 -A link to a PDF of my resume.
 
--A list of projects: Project title + Link to the deployed version + Link to the GitHub repository + Screenshot of the deployed application
+-A list of projects: Project title + Link to the deployed version + Link to the GitHub repository + Screenshot of the deployed application.
 
 ## Images
 
