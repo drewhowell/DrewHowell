@@ -12,7 +12,9 @@ My new portfolio is created with bootstrap with a mobile-first design approach. 
 
 
 -Links to my GitHub profile & LinkedIn page as well as my email address & phone number.
+
 -A link to a PDF of my resume.
+
 -A list of projects: Project title + Link to the deployed version + Link to the GitHub repository + Screenshot of the deployed application
 
 ## Images
