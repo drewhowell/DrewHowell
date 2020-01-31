@@ -22,11 +22,11 @@
 }
 
 .comp {
-    background-color: rgb(101, 155, 226);
+    background-color: rgb(101, 226, 226);
 }
 
 .tools {
-    background-color: rgb(228, 153, 218);
+    background-color: rgb(101, 226, 226);
 }
 
 body {
@@ -36,7 +36,7 @@ body {
 .footer {
     bottom: 0;
     width: 100%;
-    height: 150px;
+    height: 50px;
     line-height: 60px;
     background-color: #343a40;
     color: white;
@@ -45,4 +45,26 @@ body {
 
 a {
     text-align: center!important;
+    color: #4f90cd;
 }
+
+.card-header {
+    background-color: #4f90cd;
+    color: white;
+}
+
+.contact {
+    width: 100%;
+    left: 0;
+    right: 0;
+    color: #4f90cd;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    font-size: 32px;
+}
+
+i:hover {
+    color: rgb(101, 226, 226);
+}
+
